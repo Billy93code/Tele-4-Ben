@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "Greenland | קנאביס רפואי בישראל",
+  "short_name": "Greenland",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "background_color": "#fffaf4",
+  "theme_color": "#39ff14",
+  "description": "מידע כללי על קנאביס רפואי בישראל עם מפת אזורים, מונחים בסיסיים, שאלות נפוצות והכוונה להמשך קריאה.",
+  "categories": ["education", "medical", "reference"],
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

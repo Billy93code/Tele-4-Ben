@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masach-patuach.example/sitemap.xml
